@@ -11,30 +11,20 @@ const Experience = () => {
       period: "Dec 2024 – Present",
       location: "Vancouver, Canada",
       achievements: [
-        "Developed key project documents for payment services for one of the largest European bank - Goldman Sachs in a very tight timeframe, enabling a fast project launch and immediate start of development.",
-        "Led end-to-end implementation of payment services such as domestic/international wires and cash management.",
-        "Prioritized features, managed the product backlog, and assigned tasks to the engineering team to ensure efficient development workflows."
+        "Developed key project documents for Domestic Wire and Cash Management services for one of the largest European bank in a very tight timeframe, enabling a fast project launch and immediate start of development.",
+        "Led the development and implementation of Positive Pay and Information Reporting solutions for a leading U.S. bank within 4 months, integrated with Microsoft BC and Sage Intacct ERPs.",
+        "Implemented standardized requirements documentation, providing improved analysis to development and QA teams.",
+        "Implemented Miro tool with boards for retrospectives and task estimation, along with icebreaking activities, enhancing team engagement and collaboration."
       ]
     },
     {
-      company: "T1",
+      company: "T1 Group",
       position: "Tehnical Product Manager",
-      period: "Jun 2022 – Oct 2024",
+      period: "Apr 2021 – Oct 2024",
       location: "Moscow, Russia",
       achievements: [
         "Led design and implementation of system administration modules for a modular CRM platform adopted by 5+ major CIS banks.",
         "Led the development of a high-load corporate API gateway, routing and validating all inbound and outbound traffic for over 150 microservices.",
-        "Led the development and implementation of administrative modules within the CRM system.",
-        "Organized and conducted product demonstrations for users and partners."
-      ]
-    },
-    {
-      company: "T1",
-      position: "Senior Business System Analyst",
-      period: "Apr 2021 – Jun 2022",
-      location: "Moscow, Russia",
-      achievements: [
-        "Designed REST API contracts and reviewed third-party API integrations.",
         "Led the design and documentation of the Omnichannel CRM platform architecture, covering over 50 microservices and multiple external integrations using REST APIs.",
         "Successfully contributed to the development and launch of the Omnichannel CRM platform, designed to support 25,000+ concurrent users with high availability (24/7), fully replacing legacy CRM systems in VTB Bank.",
         "Received official recognition from VTB Bank for delivering high-quality analysis under tight deadlines, contributing to the VTB-Pro omnichannel application development."
@@ -42,25 +32,24 @@ const Experience = () => {
     },
      {
       company: "RSHB Intech",
-      position: "Senior Business System Analyst",
+      position: "Technical Product Manager",
       period: "Feb 2020 – Apr 2021",
       location: "Moscow, Russia",
       achievements: [
-        "Identified optimization opportunities through GAP analysis and recommended the most efficient tape storage solution, reducing infrastructure costs.",
-        "Designed technical analysis documentation that supported the successful implementation of a new corporate ECM system.",
-        "Led and coordinated the development team to implement the internal ECM system based on IBM FileNet.",
-        "Prepared and delivered user guides and training instructions to ensure effective ECM system usage by end users."
+        "Led and coordinated cross-functional teams to deliver the ECM system on IBM FileNet on schedule, ensuring alignment with business objectives and user needs.",
+        "Defined product requirements and created solution documentation that guided the successful launch of a new corporate ECM system.",
+        "Performed GAP analysis and proposed a more efficient tape storage solution, reducing infrastructure expenses."
       ]
     },
     {
       company: "ABI Product",
-      position: "Business System Analyst",
+      position: "Senior Business System Analyst",
       period: "Sep 2017 – Feb 2020",
       location: "Vladimir, Russia",
       achievements: [
-        "Promoted from Junior to Business System Analyst within one year, based on consistently exceeding performance goals and KPIs.",
+        "Promoted to a senior-level role within one year, based on consistently exceeding performance goals and KPIs.",
         "Reduced annual paper-related costs by implementing electronic data interchange in Microsoft Axapta, SAP, and 1C ERPs.",
-        " Improved document management productivity through enhancement of electronic data interchange functionality in Microsoft Dynamics Axapta.",
+        "Improved document management productivity through enhancement of electronic data interchange functionality in Microsoft Dynamics Axapta.",
         "Increased the number of company partners integrated with electronic document interchange functionality by 80% within one year."
       ]
     }

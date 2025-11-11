@@ -25,7 +25,8 @@ const About = () => {
         "Project Management Professional (PMP)",
         "Professional Scrum Product Owner I (PSPO I)",
         "Professional Scrum Master I (PSM I)",
-        "Professional Agile Leadership I (PAL I)"
+        "Professional Agile Leadership I (PAL I)",
+        "ITSM Foundation Certificate"
   ]
 
   return (
@@ -73,28 +74,34 @@ const About = () => {
             <h3 className="text-2xl font-bold mb-6 text-gray-800">Background</h3>
             <div className="space-y-4 text-gray-600">
               <p className="leading-relaxed">
-                I began my career in Russia, where I developed a strong foundation in systems 
-                analysis, business processes, and user interaction. I quickly advanced to senior 
-                roles, deepening my expertise in ERP and CRM systems. In recent years, I’ve focused 
-                on managing technical products - from designing microservice architectures and 
-                integrations to launching large-scale CRM systems from scratch in the banking sector.
+                I began my career in 2017, where I developed a strong foundation in systems analysis, 
+                business processes, and user interaction. I quickly advanced to senior roles, deepening 
+                my expertise in ERP and CRM systems. In recent years, I’ve focused on managing technical 
+                products - from designing microservice architectures and integrations to launching large-scale 
+                CRM systems from scratch in the banking sector.
               </p>
               <p className="leading-relaxed">
-                My key competencies include working with APIs, microservices, databases, gathering and 
-                analyzing requirements, managing releases, and organizing team workflows. I have hands-on 
-                experience with ECM (IBM FileNet), ERP (Microsoft Dynamics Axapta, SAP, Oracle NetSuite, Sage Intaact), CRM systems, 
-                and high-load API gateways. I’ve led cross-functional teams (development - frontend and backend, 
-                QA, analytics) within a Scrum framework, and regularly facilitate all core Agile ceremonies, 
-                including planning sessions, daily stand-ups, and retrospectives. 
+                My key competencies include working with APIs, microservices, databases, gathering and analyzing 
+                requirements, managing releases, and organizing team workflows. I have hands-on experience with ECM 
+                (IBM FileNet), ERP (Microsoft Dynamics Axapta, SAP, Oracle NetSuite, Sage Intaact), CRM systems, and 
+                high-load API gateways. I’ve led cross-functional teams (development - frontend and backend, QA, analytics) 
+                within a Scrum framework, and regularly facilitate all core Agile ceremonies, including planning sessions, 
+                daily stand-ups, and retrospectives.
               </p>
               <p className="leading-relaxed">
-                A couple of years ago, I moved to Canada to continue my professional growth and 
-                gain a deeper understanding of banking products and payment solutions in the North American market. 
-                I currently work as a Technical Product Manager at FISPAN - a fintech company partnering with 
-                leading North American banks to integrate financial services and payement solutions into ERP systems.
-                I value direct and constructive communication and always work to bridge the gap 
-                between technical and business teams. I focus on delivering results that matter - 
-                not just for the product, but for the people building it.
+                A couple of years ago, I moved to Canada to continue my professional growth and gain a deeper understanding 
+                of banking products and payment solutions in the North American market. I currently work as a Technical 
+                Product Manager at FISPAN - a fintech company partnering with leading North American banks to integrate 
+                financial services into ERP systems.
+              </p>
+              <p className="leading-relaxed">
+                I value direct and constructive communication and always work to bridge 
+                the gap between technical and business teams. I focus on delivering results that matter - not just for the product, 
+                but for the people building it.
+              </p>
+              <p className="leading-relaxed">
+                In my free time, I enjoy street photography and traveling across Canada - they’re my favourite ways 
+                to stay creative and discover the beauty of different places and cultures.
               </p>
             </div>
           </motion.div>

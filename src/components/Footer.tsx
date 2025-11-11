@@ -40,7 +40,7 @@ const Footer = () => {
               Alina Iarkeeva
             </h3>
             <p className="text-gray-400">
-              Technical Product Manager & System Analyst Professional
+              Technical Product Manager
             </p>
           </motion.div>
 

@@ -12,10 +12,10 @@ const Hero = () => {
   const [isDeleting, setIsDeleting] = useState(false)
 
   const roles = [
-    'Product manager',
     'Technical Product Manager',
-    'System Analyst',
-    'Business Analyst'
+    'Product Manager',
+    'Senior Technical Product Manager',
+    'Senior Product Manager'
   ]
 
   useEffect(() => {

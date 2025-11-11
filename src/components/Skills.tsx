@@ -24,7 +24,7 @@ const Skills = () => {
     {
       title: "Databases & Formats",
       icon: Database,
-      skills: ["JSON", "XML", "YAML", "CSV", "PostgreSQL", "Microsoft SQL Server", "MongoDB","Redis", "Elasticsearch", "Opensearch"]
+      skills: ["JSON", "XML", "YAML", "CSV", "PostgreSQL", "Microsoft SQL Server", "MongoDB","Redis", "Elasticsearch"]
     },
     {
       title: "Architecture & Integrations",
@@ -124,7 +124,7 @@ const Skills = () => {
             <div className="space-y-3">
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-blue-600 rounded-full mt-2 flex-shrink-0"></div>
-                <span className="text-gray-700">Deep expertise in product management and business analysis with 7+ years of hands-on experience across the full software development lifecycle</span>
+                <span className="text-gray-700">Deep expertise in product management and business analysis with 8+ years of hands-on experience across the full software development lifecycle</span>
               </div>
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-blue-600 rounded-full mt-2 flex-shrink-0"></div>
@@ -151,7 +151,7 @@ const Skills = () => {
               </div>
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-blue-600 rounded-full mt-2 flex-shrink-0"></div>
-                <span className="text-gray-700">Hands-on experience in modeling and optimizing business processes using Camunda Modeler, MS Visio, and Draw.io
+                <span className="text-gray-700">Hands-on experience in modeling and optimizing business processes using MS Visio, and Draw.io
 </span>
               </div>
               <div className="flex items-start gap-3">

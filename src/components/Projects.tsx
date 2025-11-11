@@ -23,7 +23,7 @@ const Projects = () => {
       tools: ["Java (Spring Boot)", "Quarkus", "Angular frontend", "Kubernetes", "PostgreSQL", "Redis", "Kafka", "Microservices Architecture"],
       icon: FolderTree,
       highlights: [
-        "Designed the directory concept: entity types, data structures, and relationships between lists",
+        "Designed the directory concept: entity types, data structures, and relationships between them",
         "Participated in the design and approval of UI mockups for the module",
         "Coordinated work between developers, and QA specialists",
         "Designed API contracts for integration with other system components",
@@ -50,13 +50,13 @@ const Projects = () => {
       tools: ["Java (Spring Boot)", "JavaScript (React)", "Microservices Architecture", "OpenShift", "Kubernetes", "PostgreSQL", "Elasticsearch"],
       icon: MonitorCheck,
       highlights: [
-        "Designing the system architecture (visualized using Draw.io)",
-        "Collecting and analyzing business requirements; preparing full project documentation",
-        "Designing the ERD of system entities",
-        "Designing system REST APIs for internal and external integrations",
-        "Creating logging and audit templates for user activity tracking",
-        "Gathering and documenting information security requirements",
-        "Preparing detailed functional and non-functional specifications"
+        "Designed the system architecture (visualized using Draw.io)",
+        "Collected and analyzed business requirements; preparing full project documentation",
+        "Designed the ERD of system entities",
+        "Designed system REST APIs for internal and external integrations",
+        "Created logging and audit templates for user activity tracking",
+        "Gathered and documented information security requirements",
+        "Prepared detailed functional and non-functional specifications"
       ]
     },
     {
@@ -65,11 +65,11 @@ const Projects = () => {
       tools: [" IBM FileNet architecture"],
       icon: FileStack,
       highlights: [
-        "Conducting R&D on IBM FileNet capabilities and integration",
-        "Gathering and defining functional and non-functional requirements",
-        "Preparing detailed project documentation and specifications",
-        "Participating in functional and integration testing of the system",
-        "Designing RESTful APIs to support content management workflows"
+        "Conducted R&D on IBM FileNet capabilities and integration",
+        "Gathered and defined functional and non-functional requirements",
+        "Prepared detailed project documentation and specifications",
+        "Participated in functional and integration testing of the system",
+        "Designed RESTful APIs to support content management workflows"
       ]
     },
     {
@@ -78,12 +78,12 @@ const Projects = () => {
       tools: ["Microsoft Dynamics Axapta", "Microsoft SQL Server"],
       icon: FileText,
       highlights: [
-        "Designing a new EDI module in ERP - Microsoft Dynamics Axapta 2012",
-        "Introducing new electronic document types such as Orders, Order Completion Notifications, Dispatch Notifications, and Invoices",
-        "Integrating distributors into the EDI system by connecting customers to the EDI system according to their requirements and ptimizing customer distribution among EDI providers.",
-        "Preparing project documentation, including instructions and user manuals",
-        "Coordinating and negotiating with EDI service providers, including Commarch EDI, Kontur Diadoc, and KORUS CIS",
-        "Conducting testing of the newly developed EDI components to ensure quality and functionality"
+        "Designed a new EDI module in ERP - Microsoft Dynamics Axapta 2012",
+        "Introduced new electronic document types such as Orders, Order Completion Notifications, Dispatch Notifications, and Invoices",
+        "Integrated distributors into the EDI system by connecting customers to the EDI system according to their requirements and optimized customer distribution among EDI providers.",
+        "Prepared project documentation, including instructions and user manuals",
+        "Coordinated and negotiated with EDI service providers, including Commarch EDI, Kontur Diadoc, and KORUS CIS",
+        "Conducted testing of the newly developed EDI components to ensure quality and functionality"
       ]
     }
   ]
