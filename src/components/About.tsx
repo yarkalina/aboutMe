@@ -6,17 +6,17 @@ import { GraduationCap, MapPin, Calendar } from 'lucide-react'
 const About = () => {
   const education = [
     {
-      degree: "Certified IT Analyst",
-      school: "NPower Canada",
-      location: "Vancouver, Canada",
-      period: "Sep 2023 - Des 2023",
-      icon: GraduationCap
-    },
-    {
       degree: "Bachelor's degree in Information Systems and Technologies",
       school: "Vladimir State University",
       location: "Vladimir, Russia",
       period: "Sep 2012 - Jul 2017",
+      icon: GraduationCap
+    },
+    {
+      degree: "Certified IT Analyst",
+      school: "NPower Canada",
+      location: "Vancouver, Canada",
+      period: "Sep 2023 - Des 2023",
       icon: GraduationCap
     }
   ]

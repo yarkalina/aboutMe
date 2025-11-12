@@ -147,7 +147,7 @@ const Skills = () => {
               </div>
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-blue-600 rounded-full mt-2 flex-shrink-0"></div>
-                <span className="text-gray-700">Strong communication and interpersonal skills; known as a reliable team player and mentor to junior colleagues</span>
+                <span className="text-gray-700">Strong communication and interpersonal skills; known as a reliable team player and mentor to colleagues</span>
               </div>
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-blue-600 rounded-full mt-2 flex-shrink-0"></div>
