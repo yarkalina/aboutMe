@@ -26,7 +26,8 @@ const About = () => {
         "Professional Scrum Product Owner I (PSPO I)",
         "Professional Scrum Master I (PSM I)",
         "Professional Agile Leadership I (PAL I)",
-        "ITSM Foundation Certificate"
+        "ITSM Foundation Certificate",
+        "Google IT Support Professional Certificate"
   ]
 
   return (
@@ -153,7 +154,7 @@ const About = () => {
 
             {/* Achievements */}
             <div>
-              <h3 className="text-2xl font-bold mb-6 text-gray-800">Achievements & Certifications</h3>
+              <h3 className="text-2xl font-bold mb-6 text-gray-800">Professional Certifications</h3>
               <div className="space-y-3">
                 {achievements.map((achievement, index) => (
                   <motion.div
