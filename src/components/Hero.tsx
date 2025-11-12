@@ -14,8 +14,9 @@ const Hero = () => {
   const roles = [
     'Technical Product Manager',
     'Product Manager',
+    'Product Owner',
     'Senior Technical Product Manager',
-    'Senior Product Manager'
+    'Senior Product Manager',
   ]
 
   useEffect(() => {
