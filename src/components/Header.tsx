@@ -46,7 +46,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex-shrink-0">
             <h1 className="text-xl font-bold gradient-text">
-              Alina Iarkeeva
+              Alina Iarkeeva.ca 
             </h1>
           </div>
 
